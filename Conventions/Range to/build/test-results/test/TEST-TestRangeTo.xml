@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRangeTo" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-01-03T15:57:02" hostname="rodsava01m" time="0.009">
+  <properties/>
+  <testcase name="testInRange" classname="TestRangeTo" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
